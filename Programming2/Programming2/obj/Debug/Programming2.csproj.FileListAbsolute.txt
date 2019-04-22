@@ -1,0 +1,10 @@
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\bin\Debug\Programming2.exe.config
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\bin\Debug\Programming2.exe
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\bin\Debug\Programming2.pdb
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.csprojAssemblyReference.cache
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.MainForm.resources
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.Properties.Resources.resources
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.csproj.GenerateResource.cache
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.csproj.CoreCompileInputs.cache
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.exe
+C:\Users\Revenue Director\Desktop\GCU\CST-117\Week 2\Programming2\Programming2\Programming2\obj\Debug\Programming2.pdb
